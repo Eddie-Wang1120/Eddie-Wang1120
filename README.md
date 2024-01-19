@@ -6,7 +6,7 @@ I'm now a post-graduate student studying at Peking University, and interested in
 - 💬 Ask me about any questions if you have with my repos.
 - 😄 Interests: Reading / Playing basketballs & computers
 
-## My coding Times
+## My Coding Status
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eddie-Wang1120&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 &nbsp
