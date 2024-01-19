@@ -4,7 +4,6 @@ I'm now a post-graduate student studying at Peking University, and interested in
 - 🔭 I’m currently a post-graduate student studying at Peking University.
 - 🌱 I’m currently learning HPC, Model Quantizing and any fields that can speed up the model inference.
 - 💬 Ask me about any questions if you have with my repos.
-- 😄 Interests: Reading / Playing basketballs & computers
 
 ## My Coding Status
 
