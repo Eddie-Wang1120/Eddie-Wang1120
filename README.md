@@ -1,11 +1,21 @@
 <div align="center"> <h1>Welcome to Eddie-Wang's page!😜</h1></div>  
-I'm now a post-graduate student studying at Peking University, and interested in HPC, Model Quantizing and any fields that can speed up the model inference.   
+
+I'm now a post-graduate student studying at Peking University, and interested in **HPC**, **AIsys** and **SOC** or any fields that can improve the DL model training or inference.   
+
+## Intro
 
 - 🔭 I’m currently a post-graduate student studying at Peking University.
-- 🌱 I’m currently learning HPC, Model Quantizing and any fields that can speed up the model inference.
+- 🌱 I’m currently learning new things about CPU model inference.
 - 💬 Ask me about any questions if you have with my repos.
 
-## My Coding Status
+## experience
+AI model dev  |AI kernel dev |AI sys dev
+------ | --- | ---
+constructing | CPU | TensorRT-LLM
+opimizing | GPU | Paddle
+quantizing | NPU | llama.cpp
+
+## Status
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eddie-Wang1120&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 &nbsp
