@@ -1,18 +1,18 @@
 <div align="center"> <h1>Welcome to Eddie-Wang's page!😜</h1></div>  
 
-I'm now a post-graduate student studying at Peking University, and interested in **HPC**, **AIsys** and **SOC** or any fields that can improve the DL model training or inference.   
+I'm now a post-graduate student studying at Peking University, and interested in **HPC**, **AIsys** and **SOC** or any fields that can improve perfermence of the AI model training or inference.   
 
 ## Intro
 
 - 🔭 I’m currently a post-graduate student studying at Peking University.
 - 🌱 I’m currently learning new things about CPU model inference.
-- 💬 Ask me about any questions if you have with my repos.
+- 💬 Ask me any questions if you have about my repos.
 
 ## experience
 AI model dev  |AI kernel dev |AI sys dev
 ------ | --- | ---
 constructing | CPU | TensorRT-LLM
-opimizing | GPU | Paddle
+optimizing | GPU | Paddle
 quantizing | NPU | llama.cpp
 
 ## Status
