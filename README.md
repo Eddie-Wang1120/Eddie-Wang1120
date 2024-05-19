@@ -1,5 +1,7 @@
 <div align="center"> <h1>Welcome to Eddie-Wang's page!😜</h1></div>  
 
+![](https://komarev.com/ghpvc/?username=Eddie-Wang1120)
+
 I'm now a post-graduate student studying at Peking University, and interested in **HPC**, **AIsys** and **SOC** or any fields that can improve perfermence of the AI model training or inference.   
 
 ## Intro
