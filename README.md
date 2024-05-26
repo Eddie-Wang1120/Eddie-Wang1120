@@ -1,7 +1,7 @@
 <div align="center"> <h1>Welcome to Eddie-Wang's page!😜</h1></div>  
 
 ![](https://komarev.com/ghpvc/?username=Eddie-Wang1120)
-
+                        
 I'm now a post-graduate student studying at Peking University, and interested in **HPC**, **AIsys** and **SOC** or any fields that can improve perfermence of the AI model training or inference.   
 
 ## Intro
@@ -31,6 +31,10 @@ quantizing | NPU | llama.cpp
 
 ## Languages and Tools
 
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eddie-Wang1120)](https://github.com/anuraghazra/github-readme-stats)
+
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git"></code>
@@ -46,4 +50,6 @@ quantizing | NPU | llama.cpp
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
+
+</div>
 
