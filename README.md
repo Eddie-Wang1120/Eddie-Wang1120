@@ -29,7 +29,7 @@ quantizing | NPU | llama.cpp
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Eddie-Wang1120&column=8"/></div>  
 
 
-## Languages and Tools
+## Tech Stack
 
 <div align="center">
 
