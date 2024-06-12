@@ -6,3 +6,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eddie-Wang1120&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
+
+<div align="center">
+
+AI model dev  |AI kernel dev |AI sys dev
+------ | --- | ---
+constructing | CPU | TensorRT-LLM
+opimizing | GPU | Paddle
+quantizing | NPU | llama.cpp
+
+</div>
