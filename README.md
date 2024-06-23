@@ -1,5 +1,4 @@
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="800"></p>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Eddie-Wang1120&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 <div align="center">
 
@@ -8,11 +7,7 @@
 </div>
 
 <div align="center">
-
-AI model dev  |AI kernel dev |AI sys dev
------- | --- | ---
-constructing | CPU | TensorRT-LLM
-opimizing | GPU | Paddle
-quantizing | NPU | llama.cpp
+  
+<img src="https://github-readme-stats.vercel.app/api?username=Eddie-Wang1120&show_icons=true&count_private=true&hide_border=true" align="center" />
 
 </div>
