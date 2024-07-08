@@ -1,6 +1,12 @@
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="800"></p>
+<p align="center">
+
+<img src="/github-metrics.svg" alt="Metrics" width="800">
+
+</p>
 
 <div align="center">
+
+![](https://komarev.com/ghpvc/?username=Eddie-Wang1120)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eddie-Wang1120&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
