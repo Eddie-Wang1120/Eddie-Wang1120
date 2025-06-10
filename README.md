@@ -10,7 +10,7 @@ I'm a passionate AI infra developer actively contributing to open-source project
 - 📄 [1-bit AI Infra: Part 1.1, Fast and Lossless BitNet b1. 58 Inference on CPUs](https://arxiv.org/abs/2410.16144)  
   ***Jinheng Wang**, Hansong Zhou, Ting Song, Shaoguang Mao, Shuming Ma, Hongyu Wang, Yan Xia, Furu Wei*
 
-- 📄 [Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://arxiv.org/abs/2502.11880)  
+- 📄 [Bitnet.cpp: Efficient Edge Inference for Ternary LLMs](https://arxiv.org/abs/2502.11880) ***(ACL 2025 Main)***  
   ***Jinheng Wang**, Hansong Zhou, Ting Song, Shijie Cao, Yan Xia, Ting Cao, Jianyu Wei, Shuming Ma, Hongyu Wang, Furu Wei*
 
 ### :rocket: Repos I've Contributed To
