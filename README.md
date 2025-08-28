@@ -3,7 +3,7 @@
 
 I'm a passionate AI infra developer actively contributing to open-source projects.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eddie-Wang1120&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygh.kolioaris.xyz/?username=Eddie-Wang1120&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### :pencil: Research I’ve Been Part Of
 
