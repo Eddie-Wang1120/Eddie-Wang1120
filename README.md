@@ -11,7 +11,7 @@ Core developer of:
   - **lossless inference** for BitNet b1.58 via the TL / I2_S ternary mpGEMM kernels
   - measured on edge CPUs: Intel i7-13700H, Apple M2 Ultra
 
-![BitNet inference timeline](figures/bitnet.png)
+<p align="center"><img src="figures/bitnet.png" alt="BitNet inference timeline" width="600"></p>
 
 **[TeraMoE](https://github.com/PFCCLab/TeraMoE)** — cross-node expert-parallel MoE training library.
   - **1.30x** speedup over DeepEP + TE in communication-bound sparse-expert regimes, **1.24x** under 3.0x expert load imbalance
@@ -19,7 +19,7 @@ Core developer of:
   - **one cooperative persistent kernel** overlapping dispatch, expert compute and combine
   - measured on SM100 GPUs, EP16–64 over RDMA
 
-![TeraMoE SM role timeline](figures/SM_role_v2.png)
+<p align="center"><img src="figures/SM_role_v2.png" alt="TeraMoE SM role timeline" width="600"></p>
 
 ### 📄 Research
 
