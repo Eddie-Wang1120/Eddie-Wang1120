@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Jinheng Wang
 
-A passionate AI Infra researcher focused on high-performance computing and algorithm–infra co-design.
+A passionate AI Infra researcher focused on high-performance computing and model-and-system co-design.
 
 ### 🚀 What I Build
 
